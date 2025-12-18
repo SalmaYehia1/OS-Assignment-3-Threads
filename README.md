@@ -1,4 +1,4 @@
-# Pthreads Lab – Merge Sort & Matrix Multiplication
+# Pthreads – Merge Sort & Matrix Multiplication
 
 ## Part 1: Merge Sort
 - **Algorithm:** Divide-and-conquer, O(n log n).  
